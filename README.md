@@ -1,3 +1,10 @@
+# import!
+
+There is my way to fix memory error. You should know it will replace your pytorch to 2.0 but env still working.
+```
+pip install xformers
+```
+
 # [UniControl](https://arxiv.org/abs/2305.11147) [![arXiv](https://img.shields.io/badge/📃-arXiv-ff69b4)](https://arxiv.org/pdf/2305.11147.pdf) [![webpage](https://img.shields.io/badge/🖥-Website-9cf)](https://canqin001.github.io/UniControl-Page/)
 <div align="center">
     <a><img src="figs/salesforce.png"  height="100px" ></a>
